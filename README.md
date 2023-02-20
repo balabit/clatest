@@ -1,2 +1,2 @@
 # clatest
-test various CLA helopers
+test various CLA helpers
